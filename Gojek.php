@@ -2,12 +2,12 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("blue"," ======================================\n");
-echo color("blue","|Daftar Akun + Auto Claim Voucher Food|\n");
+echo color("blue","|Auto Vocer Dek.. GERAM-GERAM---------|\n");
 echo color("blue","| _______|____•___||_____•____|_______|\n");
 echo color("blue","| ________|______|__|_______|_________|\n");
 echo color("blue","| __________|___|_____|___|___________|\n");
 echo color("blue","| ____________|_________|_____________|\n");
-echo color("blue","| Version :_______∆UBUR - UBUR∆_______|\n");
+echo color("blue","| Version :_______MRIANTO _______|\n");
 echo color("green","| Time    :".date('[d-m-Y] [H:i:s]    ')."|\n");
 echo color("blue"," ======================================\n");
 
